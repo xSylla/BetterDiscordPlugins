@@ -1,4 +1,4 @@
-//META{"name":"youtube", "source": "https://github.com/xSylla/BetterDiscord/blob/master/MyTube.plugin.js"}*//
+//META{"name":"youtube", "source": "https://github.com/xSylla/BetterDiscordPlugins/blob/master/MyTube.plugin.js"}*//
 const { shell } = require('electron');
 class youtube {
     getAuthor() {
